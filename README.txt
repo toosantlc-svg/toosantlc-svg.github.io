@@ -1,9 +1,8 @@
-Toosan Language Center (TLC) website — Version 2
+TOOSAN LANGUAGE CENTER — GITHUB PAGES
 
-Updated with the supplied TLC logo and real contact information.
+Upload these three files to the root of the main branch:
+index.html
+style.css
+script.js
 
-Phone: +98 113 346 3011
-Address: Farahabad, Sari, Iran
-Email: Toosan.tlc@gmail.com
-
-Open index.html in a browser to preview the website.
+GitHub Pages should remain set to Deploy from a branch -> main -> /(root).
